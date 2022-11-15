@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElaheMoradi
 - 👀 I’m interested in Machin Learning (ML) and Deep Learning (DP)
-- 🌱 I’m currently learning ML And DP
+- 🌱 I’m currently learning ML And DP and also Python software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
